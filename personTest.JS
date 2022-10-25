@@ -8,3 +8,4 @@ console.log(persona3.IMC());
 console.log(persona3.Edad());
 persona3.printAll();
 persona3.prtintHobbies();
+
